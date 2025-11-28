@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8769c37135a16ba4fb946798fe3cb1fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundAudioSource: {instanceID: 0}
+  - gameOverAudio: {fileID: 8300000, guid: 1d2f348735857f047b7a5defd60d930a, type: 3}
+  - buttonClick: {instanceID: 0}
+  - levelCompleteAudio: {instanceID: 0}
+  - soundFXAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

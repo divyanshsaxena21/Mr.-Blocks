@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55e937bd47cea5b448693ba84242f4df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelPanel: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - levelManager: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - menuButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
